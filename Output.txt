@@ -1,3 +1,6 @@
+[Adblock Plus 2.0]
+! Name: IGGBlock
+! Expires: 3 months
 igg-games.com##DIV[id="aaa"]
 igg-games.com##DIV[id="aab"]
 igg-games.com##DIV[id="aac"]
